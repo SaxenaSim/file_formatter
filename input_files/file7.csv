@@ -1,0 +1,4 @@
+transaction_date,unique_transaction_id,item_code,item_sr_no,item_manufacture_date,sale_price,discount_price,store_no,store_name,customer_id,extra_column1,extra_column2,extra_column3
+2024-03-21,1031,T031,S031,2024-02-01,3500,3450,031,Store31,C031,ExtraValue21,ExtraValue22,ExtraValue23
+2024-03-21,1032,T032,S032,2024-03-21,3600,3550,032,Store32,C032,ExtraValue24,ExtraValue25,ExtraValue26
+2024-03-21,1033,T033,S033,2024-01-10,3700,3650,033,Store33,C033,ExtraValue27,ExtraValue28,ExtraValue29

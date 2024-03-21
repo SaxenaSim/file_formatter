@@ -1,0 +1,11 @@
+transaction_date,unique_transaction_id,item_code,item_sr_no,item_manufacture_date,sale_price,discount_price,store_no,store_name,customer_id,extra_column1,extra_column2
+2024-03-24,1011,T011,S011,2024-03-20,1500,1450,011,Store11,C011,ExtraValue1,ExtraValue2
+2024-03-24,1012,T012,S012,2024-03-01,1600,1550,012,Store12,C012,ExtraValue3,ExtraValue4
+2024-03-24,1013,T013,S013,2024-01-05,1700,1650,013,Store13,C013,ExtraValue5,ExtraValue6
+2024-03-24,1014,T014,S014,2024-01-15,1800,1750,014,Store14,C014,ExtraValue7,ExtraValue8
+2024-03-24,1015,T015,S015,2024-02-05,1900,1850,015,Store15,C015,ExtraValue9,ExtraValue10
+2024-03-24,1016,T016,S016,2024-02-25,2000,1950,016,Store16,C016,ExtraValue11,ExtraValue12
+2024-03-24,1017,T017,S017,2024-03-10,2100,2050,017,Store17,C017,ExtraValue13,ExtraValue14
+2024-03-24,1018,T018,S018,2024-02-15,2200,2150,018,Store18,C018,ExtraValue15,ExtraValue16
+2024-03-24,1019,T019,S019,2024-01-20,2300,2250,019,Store19,C019,ExtraValue17,ExtraValue18
+2024-03-24,1020,T020,S020,2024-03-05,2400,2350,020,Store20,C020,ExtraValue19,ExtraValue20
