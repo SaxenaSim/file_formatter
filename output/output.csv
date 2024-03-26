@@ -1,27 +1,27 @@
 transaction_date,unique_transaction_id,item_code,item_sr_no,item_manufacture_date,discount_price,store_no,store_name,customer_name,state,zip
-2024-03-21,1001,T001,S001,2024-01-01,Null,Null,Null,Null,Null,Null
-2024-03-21,1002,T002,S002,2023-12-15,Null,Null,Null,Null,Null,Null
-2024-03-21,1003,T003,S003,2024-02-10,Null,Null,Null,Null,Null,Null
-2024-03-21,1004,T004,S004,2024-01-20,Null,Null,Null,Null,Null,Null
-2024-03-21,1005,T005,S005,2024-03-05,Null,Null,Null,Null,Null,Null
-2024-03-21,1006,T006,S006,2024-02-15,Null,Null,Null,Null,Null,Null
-2024-03-21,1007,T007,S007,2024-03-10,Null,Null,Null,Null,Null,Null
-2024-03-21,1008,T008,S008,2024-02-20,Null,Null,Null,Null,Null,Null
-2024-03-21,1009,T009,S009,2024-03-15,Null,Null,Null,Null,Null,Null
-2024-03-21,1010,T010,S010,2024-02-25,Null,Null,Null,Null,Null,Null
-2024-03-25,1021,T021,S021,2024-01-10,2450,21,Store21,Null,Null,Null
-2024-03-25,1022,T022,S022,2024-01-30,2550,22,Store22,Null,Null,Null
-2024-03-25,1023,T023,S023,2024-02-15,2650,23,Store23,Null,Null,Null
-2024-03-25,1024,T024,S024,2024-03-05,2750,24,Store24,Null,Null,Null
-2024-03-25,1025,T025,S025,2024-02-20,2850,25,Store25,Null,Null,Null
-2024-03-25,1026,T026,S026,2024-01-25,2950,26,Store26,Null,Null,Null
-2024-03-25,1027,T027,S027,2024-02-05,3050,27,Store27,Null,Null,Null
-2024-03-25,1028,T028,S028,2024-03-15,3150,28,Store28,Null,Null,Null
-2024-03-25,1029,T029,S029,2024-02-10,3250,29,Store29,Null,Null,Null
-2024-03-25,1030,T030,S030,2024-01-01,3350,30,Store30,Null,Null,Null
-2024-03-21,1031,T031,S031,2024-02-01,3450,31,Store31,Null,Null,Null
-2024-03-21,1032,T032,S032,2024-03-21,3550,32,Store32,Null,Null,Null
-2024-03-21,1033,T033,S033,2024-01-10,3650,33,Store33,Null,Null,Null
+2024-03-21,1001,T001,S001,2024-01-01,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1002,T002,S002,2023-12-15,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1003,T003,S003,2024-02-10,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1004,T004,S004,2024-01-20,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1005,T005,S005,2024-03-05,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1006,T006,S006,2024-02-15,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1007,T007,S007,2024-03-10,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1008,T008,S008,2024-02-20,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1009,T009,S009,2024-03-15,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1010,T010,S010,2024-02-25,<class 'float'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1021,T021,S021,2024-01-10,2450,21,Store21,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1022,T022,S022,2024-01-30,2550,22,Store22,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1023,T023,S023,2024-02-15,2650,23,Store23,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1024,T024,S024,2024-03-05,2750,24,Store24,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1025,T025,S025,2024-02-20,2850,25,Store25,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1026,T026,S026,2024-01-25,2950,26,Store26,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1027,T027,S027,2024-02-05,3050,27,Store27,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1028,T028,S028,2024-03-15,3150,28,Store28,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1029,T029,S029,2024-02-10,3250,29,Store29,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-25,1030,T030,S030,2024-01-01,3350,30,Store30,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1031,T031,S031,2024-02-01,3450,31,Store31,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1032,T032,S032,2024-03-21,3550,32,Store32,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-21,1033,T033,S033,2024-01-10,3650,33,Store33,<class 'str'>,<class 'str'>,<class 'str'>
 2024-03-22,3001,T001,S001,2024-01-01,450,1,Store1,Customer1,State1,12345
 2024-03-22,3002,T002,S002,2023-12-15,550,2,Store2,Customer2,State2,23456
 2024-03-22,3003,T003,S003,2024-02-10,650,3,Store3,Customer3,State3,34567
@@ -32,33 +32,33 @@ transaction_date,unique_transaction_id,item_code,item_sr_no,item_manufacture_dat
 2024-03-22,3008,T008,S008,2024-02-20,1150,8,Store8,Customer8,State8,89012
 2024-03-22,3009,T009,S009,2024-03-15,1250,9,Store9,Customer9,State9,90123
 2024-03-22,3010,T010,S010,2024-02-25,1350,10,Store10,Customer10,State10,1234
-2024-03-23,4001,T001,S001,2024-01-01,450,1,Store1,Null,Null,Null
-2024-03-23,4002,T002,S002,2023-12-15,550,2,Store2,Null,Null,Null
-2024-03-23,4003,T003,S003,2024-02-10,650,3,Store3,Null,Null,Null
-2024-03-23,4004,T004,S004,2024-01-20,750,4,Store4,Null,Null,Null
-2024-03-23,4005,T005,S005,2024-03-05,850,5,Store5,Null,Null,Null
-2024-03-23,4006,T006,S006,2024-02-15,950,6,Store6,Null,Null,Null
-2024-03-23,4007,T007,S007,2024-03-10,1050,7,Store7,Null,Null,Null
-2024-03-23,4008,T008,S008,2024-02-20,1150,8,Store8,Null,Null,Null
-2024-03-23,4009,T009,S009,2024-03-15,1250,9,Store9,Null,Null,Null
-2024-03-23,4010,T010,S010,2024-02-25,1350,10,Store10,Null,Null,Null
-2024-03-20,2001,T001,S001,2024-01-01,450,1,Store1,Null,Null,Null
-2024-03-20,2002,T002,S002,2023-12-15,550,2,Store2,Null,Null,Null
-2024-03-20,2003,T003,S003,2024-02-10,650,3,Store3,Null,Null,Null
-2024-03-20,2004,T004,S004,2024-01-20,750,4,Store4,Null,Null,Null
-2024-03-20,2005,T005,S005,2024-03-05,850,5,Store5,Null,Null,Null
-2024-03-20,2006,T006,S006,2024-02-15,950,6,Store6,Null,Null,Null
-2024-03-20,2007,T007,S007,2024-03-10,1050,7,Store7,Null,Null,Null
-2024-03-20,2008,T008,S008,2024-02-20,1150,8,Store8,Null,Null,Null
-2024-03-20,2009,T009,S009,2024-03-15,1250,9,Store9,Null,Null,Null
-2024-03-20,2010,T010,S010,2024-02-25,1350,10,Store10,Null,Null,Null
-2024-03-24,1011,T011,S011,2024-03-20,1450,11,Store11,Null,Null,Null
-2024-03-24,1012,T012,S012,2024-03-01,1550,12,Store12,Null,Null,Null
-2024-03-24,1013,T013,S013,2024-01-05,1650,13,Store13,Null,Null,Null
-2024-03-24,1014,T014,S014,2024-01-15,1750,14,Store14,Null,Null,Null
-2024-03-24,1015,T015,S015,2024-02-05,1850,15,Store15,Null,Null,Null
-2024-03-24,1016,T016,S016,2024-02-25,1950,16,Store16,Null,Null,Null
-2024-03-24,1017,T017,S017,2024-03-10,2050,17,Store17,Null,Null,Null
-2024-03-24,1018,T018,S018,2024-02-15,2150,18,Store18,Null,Null,Null
-2024-03-24,1019,T019,S019,2024-01-20,2250,19,Store19,Null,Null,Null
-2024-03-24,1020,T020,S020,2024-03-05,2350,20,Store20,Null,Null,Null
+2024-03-23,4001,T001,S001,2024-01-01,450,1,Store1,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4002,T002,S002,2023-12-15,550,2,Store2,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4003,T003,S003,2024-02-10,650,3,Store3,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4004,T004,S004,2024-01-20,750,4,Store4,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4005,T005,S005,2024-03-05,850,5,Store5,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4006,T006,S006,2024-02-15,950,6,Store6,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4007,T007,S007,2024-03-10,1050,7,Store7,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4008,T008,S008,2024-02-20,1150,8,Store8,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4009,T009,S009,2024-03-15,1250,9,Store9,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-23,4010,T010,S010,2024-02-25,1350,10,Store10,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2001,T001,S001,2024-01-01,450,1,Store1,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2002,T002,S002,2023-12-15,550,2,Store2,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2003,T003,S003,2024-02-10,650,3,Store3,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2004,T004,S004,2024-01-20,750,4,Store4,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2005,T005,S005,2024-03-05,850,5,Store5,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2006,T006,S006,2024-02-15,950,6,Store6,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2007,T007,S007,2024-03-10,1050,7,Store7,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2008,T008,S008,2024-02-20,1150,8,Store8,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2009,T009,S009,2024-03-15,1250,9,Store9,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-20,2010,T010,S010,2024-02-25,1350,10,Store10,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1011,T011,S011,2024-03-20,1450,11,Store11,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1012,T012,S012,2024-03-01,1550,12,Store12,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1013,T013,S013,2024-01-05,1650,13,Store13,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1014,T014,S014,2024-01-15,1750,14,Store14,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1015,T015,S015,2024-02-05,1850,15,Store15,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1016,T016,S016,2024-02-25,1950,16,Store16,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1017,T017,S017,2024-03-10,2050,17,Store17,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1018,T018,S018,2024-02-15,2150,18,Store18,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1019,T019,S019,2024-01-20,2250,19,Store19,<class 'str'>,<class 'str'>,<class 'str'>
+2024-03-24,1020,T020,S020,2024-03-05,2350,20,Store20,<class 'str'>,<class 'str'>,<class 'str'>
