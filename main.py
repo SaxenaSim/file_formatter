@@ -46,8 +46,7 @@ class CsvProcessor:
         print("Output file is written successfully.")
 
 
-if __name__ == "__main__":
-
+def main():
     standard_columns = [
         "transaction_date",
         "unique_transaction_id",
@@ -88,3 +87,8 @@ if __name__ == "__main__":
 
     obj.process_files()
     obj.write_output(output_file)
+
+
+if __name__ == "__main__":
+
+    main()
